@@ -26,7 +26,7 @@ export function FooterSection() {
           <img
             src="/images/Me-10.png"
             alt="Alex Graham"
-            className="h-full w-auto object-cover object-center lg:object-top lg:aspect-square scale-x-[-1]"
+            className="h-full w-auto object-cover object-center lg:object-top lg:aspect-square"
           />
         </div>
 
