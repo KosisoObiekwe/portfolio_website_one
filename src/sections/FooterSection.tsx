@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Linkedin, Twitter, Instagram, ArrowUp } from "lucide-react";
+import { Linkedin, Twitter, Instagram } from "lucide-react";
 import { MarqueeText } from "@/components/MarqueeText";
 import { LogoMarquee } from "@/components/LogoMarquee";
 
@@ -10,9 +10,9 @@ const socialLinks = [
 ];
 
 export function FooterSection() {
-  const scrollToTop = () => {
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  };
+  // const scrollToTop = () => {
+  //   window.scrollTo({ top: 0, behavior: "smooth" });
+  // };
 
   return (
     <footer id="contact" className="relative">
