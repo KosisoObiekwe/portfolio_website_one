@@ -24,7 +24,7 @@ export function FooterSection() {
         {/* Portrait Background */}
         <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
           <img
-            src="/images/hero-portrait.png"
+            src="/images/Me-10.png"
             alt="Alex Graham"
             className="h-full w-auto object-cover object-center lg:object-top lg:aspect-square scale-x-[-1]"
           />
