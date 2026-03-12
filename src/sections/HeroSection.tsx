@@ -20,7 +20,7 @@ export function HeroSection() {
       >
         <img
           src="/images/Me-9.png"
-          alt="Alex Graham"
+          alt="Kxsi"
           className="h-full w-auto object-cover object-center lg:object-top lg:aspect-square"
         />
       </motion.div>
@@ -29,7 +29,7 @@ export function HeroSection() {
       <div className="absolute inset-0 flex items-center pointer-events-none">
         <div className="w-full mix-blend-difference">
           <MarqueeText
-            text="Kxsi Studios"
+            text="Kxsi"
             className="text-[120px] md:text-[180px] lg:text-[300px] font-bold text-white tracking-[-0.04em] leading-[0.85]"
           />
         </div>
